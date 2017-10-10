@@ -1,4 +1,4 @@
-version 1.0.3
+version 1.0.4
 created at develop
 
 develop_branch_changes
@@ -8,3 +8,5 @@ develop_branch_changes3
 green
 red
 blue
+
+some develop_branch_changes4
